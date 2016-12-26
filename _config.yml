@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-slate
 title: База данных различий между старопечатными книгами XVII века
 description: База данных различий между шрифтами, буквами и страницами некоторых старопечатных книг XVII века.
 markdown_ext: "md,html"
