@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
 title: База данных различий между старопечатными книгами VII века
 description: База данных различий между шрифтами, буквами и страницами некоторых старопечатных книг VII века.
-footer: This data base
+markdown_ext: "md,html"
